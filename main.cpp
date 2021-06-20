@@ -2,9 +2,9 @@
 
 using namespace std;
 
-string training_path = "D:\\CLionProjects\\comp182hw8\\training.txt";
-string tagged_path = "D:\\CLionProjects\\comp182hw8\\testdata_tagged.txt";
-string untagged_path = "D:\\CLionProjects\\comp182hw8\\testdata_untagged.txt";
+string training_path = "training.txt";
+string tagged_path = "testdata_tagged.txt";
+string untagged_path = "testdata_untagged.txt";
 
 // # of word in training data
 int token_count = 0;
